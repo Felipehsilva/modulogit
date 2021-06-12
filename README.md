@@ -6,7 +6,3 @@ alteração no readme
 mais uma linha
 
 vfvfv
-
-
-gguy
-ji
